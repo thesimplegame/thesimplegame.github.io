@@ -1,0 +1,17 @@
+body{
+  margin:0;
+}
+
+.title{
+  position: fixed;
+  top: -17%;
+  left: 32%;
+  font-size: 370%;
+  font-weight: bold;
+}
+
+.canvas{
+  position: fixed;
+  border: 5px solid black;
+  width:99%;
+}
